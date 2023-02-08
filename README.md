@@ -4,7 +4,11 @@ Obs: Não existe na realidade um grande padrão em Microserviços. Não existe u
 
 
 
+Sistemas monolítico: É um sistema tradicional que os desenvolvedores estão acostumados a fazer. A maioria dos sistemas são monolíticos e raramente você vai ter que abordar outra abordagem (em 95% dos casos não tem nada de errado com sistemas monolíticos).
 
+  Algumas características (essas características não são ruins mas dependendo do contexto elas podem dar dor de cabeça):
+  
+    - Escalabilidade: 
 
 
 
