@@ -14,7 +14,15 @@ Sistemas monolítico: É um sistema tradicional que os desenvolvedores estão ac
 
 
 
+  Alguns problemas do microservisos:
+  
+  - Já foi provado que usar diversas linguágens de programação em microserviços diferentes atrabalha o projeto como todo.
+
 
 ok:
 
 https://www.youtube.com/watch?v=iOvi6O4iL9s
+
+
+Fazendo:
+https://www.youtube.com/watch?v=Zu-D9A_L5Qo
